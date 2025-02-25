@@ -1,7 +1,7 @@
 # Ethnicize
 ## Introduction  
 In India, numerous skilled artists, MSMEs, and handicraft makers struggle to reach the right clients due to a lack of visibility and proper matchmaking.This project aims to develop an AI-driven recommendation system that analyzes natural language client prompts to accurately match them with the most suitable artist, MSME
-#### USP
+### USP
 1.  Natural Language Prompts
 2.  Image based matching
 ### What makes this project unique from E-commerce search Engines 
